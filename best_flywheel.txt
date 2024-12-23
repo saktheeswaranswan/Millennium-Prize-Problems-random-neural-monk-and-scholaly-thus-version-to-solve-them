@@ -1,0 +1,5 @@
+Best Flywheel Design:
+Radius: 0.500 m
+Thickness: 0.033 m
+Material Density: 6367.5 kg/m^3
+Fitness: 0.12484
